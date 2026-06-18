@@ -1,5 +1,6 @@
 ﻿{
-  "reportMissingImports": "none",
-  "reportMissingModuleSource": "none",
-  "reportArgumentType": "none"
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportArgumentType": "none",
+    "reportGeneralTypeIssues": "none"
 }
