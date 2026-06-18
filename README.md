@@ -203,6 +203,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 <p align="center">
   <strong>Made with ❤️ by <a href="https://github.com/mimicodegirl-26">@mimicodegirl-26</a> — CodeAlpha ML Internship</strong>
 </p>
-```
-
-Push the updated file and your `demo.gif` to GitHub for the full effect.
